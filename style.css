@@ -88,6 +88,8 @@ button:hover {
 
 .button.cancel:hover {	
     opacity: 1;
+    color: #fff;
+    background: var(--red);
 }
 
 /* Titles ------------------------------------*/
