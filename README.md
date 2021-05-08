@@ -25,6 +25,9 @@ O site foi feito para ajudar o usuário a organizar suas finanças, com um contr
 - CSS
 - JavaScript
 
+## Conhecimentos utilizados
+- LocalStorage
+- Criação de Modal
 
 # Autor
 
