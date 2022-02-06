@@ -33,5 +33,5 @@ O site foi feito para ajudar o usuário a organizar suas finanças, com um contr
 
 Isaque Pinheiro dos Santos
 
-https://www.linkedin.com/in/isaque-pinheiro-dos-santos-47048a18b/
+https://www.linkedin.com/in/isaquep/
 
