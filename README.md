@@ -5,7 +5,7 @@
 
 https://dev-finance-discover.netlify.app/
 
-Dev.Finance é uma projeto web desenvolvido durante a 1ª edição da **Maratona Discover**, evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
+Dev.Finance é um projeto web desenvolvido durante a 1ª edição da **Maratona Discover**, evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
 
 O site foi feito para ajudar o usuário a organizar suas finanças, com um controle de entradas e saídas, permitindo que os dados fiquem salvos no navegador web.
 
